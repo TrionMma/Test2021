@@ -1,0 +1,10 @@
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\bin\Debug\WinHelloWorld.exe.config
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\bin\Debug\WinHelloWorld.exe
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\bin\Debug\WinHelloWorld.pdb
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.csproj.AssemblyReference.cache
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.Form1.resources
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.Properties.Resources.resources
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.csproj.GenerateResource.cache
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.exe
+C:\Users\mbecker\source\repos\Test2021\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.pdb
